@@ -9,3 +9,5 @@ function sayHello(){
 function addNums(num1 , num2) {
     return num1 + num2
 }
+
+const food = "sushi"
